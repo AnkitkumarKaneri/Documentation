@@ -74,7 +74,7 @@ If you have any feedback, please reach out to us at kaneri776@gmail.com
 HTML, CSS, JIRA, Product Management, ServiceNow, Adobe XD, Figma, Camatasia - Video production, Audacity - Audio Production, Mural, Design Thinking, Product Design, Product Wireframing.
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
 
 
 ## Current Roadmap
